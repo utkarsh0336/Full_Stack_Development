@@ -1,0 +1,25 @@
+*{
+    background-color: white;
+
+}
+#uppernav{
+    color: white;
+}
+
+#srcbtn{
+    width: 100px;
+    border-radius: 25%;
+    align-items: center;
+    
+}
+
+#srcbar{
+    width: 472px;
+    border-radius: 0%;
+    position: relative;
+    right: 430px;
+    border: 2px solid black;
+    height: 40px;
+}
+
+

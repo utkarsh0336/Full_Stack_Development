@@ -1,0 +1,34 @@
+.card{
+    height: 520px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 5%;
+    margin: 42px;
+    padding: 15px;
+    display: inline-block;
+}
+
+#cat img,#dog img{
+    height: 194px;
+    width: 284px;
+    border-radius: 5%;
+}
+
+.name{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link{
+    color: rgb(130, 71, 0);
+}
+
+span{
+    color: brown;
+}
+
+@media (max-width: 375px){
+    .name{
+        flex-wrap: wrap;
+    }
+}

@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: #1b74e4;
+}
+
+.lastbutton{
+    background-color: #000;
+    color: white;
+}
+
+.button{
+    background-color: aqua;
+}
+
